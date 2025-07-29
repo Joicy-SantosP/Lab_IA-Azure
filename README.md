@@ -125,6 +125,7 @@ A seleção de frases é baseada em sua relevância para o conteúdo semântico.
 A sumarização extrativa seleciona as frases mais representativas do conteúdo, útil para análise rápida de textos longos.
 
 **Exemplo**:
+
 <ins> Texto analisado </ins>:
 
 Very noisy and rooms are tiny...
