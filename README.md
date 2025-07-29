@@ -10,4 +10,4 @@ Este repositório tem como finalidade demonstrar e ensinar como aproveitar os re
 Primeiro para acessar todos os estúdios é imprescindível o uso de uma conta da Microsoft, na qual tenha os recursos já pagos para a utilização de seus recursos ou pode utilizar a conta para estudantes ou professores para a utilização de graça
 
 ### Estúdio de Fala
-</u> oi</u>
+<ins> olá </ins>
