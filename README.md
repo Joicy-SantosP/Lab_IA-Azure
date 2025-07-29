@@ -88,6 +88,7 @@ Escolha o bloco Playground de linguagem para acessar os recursos de PLN.
 **Entidades nomeadas** representam pessoas, locais, organizações, datas ou objetos mencionados com <ins> nomes próprios</ins>. Esse recurso permite estruturar automaticamente informações não estruturadas.  
 
 #### Exemplo:
+
 <ins>Texto analisado</ins>:
 
 Tired hotel with poor service
