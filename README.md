@@ -126,7 +126,7 @@ A sumarização extrativa seleciona as frases mais representativas do conteúdo,
 
 **Exemplo**:
 
-<ins> Texto analisado </ins>:
+<ins> Texto analisado</ins>:
 
 Very noisy and rooms are tiny...
 Had to put cotton balls in my ears to be able to sleep...
